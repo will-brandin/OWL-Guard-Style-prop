@@ -1,6 +1,6 @@
 # Guard Style Guide Demo
  
-> Please add this file to a UnitTest target
+> You can add the above file to an existing test target to run with a debugger.
  
 Below are a few different examples of `guard` statements. Each has different pros and cons listed below. The goal here is to provide a quick 'playground' where you can see each in action and attatch breakpoints to see how each statement reacts when debugging. Each test case refers to a certain `guard` statement in action. Simply place a breakpoint at the `guard` associated with its test case.
 
