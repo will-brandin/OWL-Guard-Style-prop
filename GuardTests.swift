@@ -44,7 +44,7 @@ func myFunction() -> String? {
     return nil
 }
 
-class UITestingTests: XCTestCase {
+class GuardPlaygroundTests: XCTestCase {
     
     override func setUp() {
         optionalValue = nil
